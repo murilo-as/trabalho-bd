@@ -191,3 +191,17 @@ https://ufgbr-my.sharepoint.com/:u:/g/personal/murilo_silva_discente_ufg_br/EWeB
 Realizamos algumas consultas nos dois bancos de dados:
 https://docs.google.com/document/d/1uS8zETPNaOyaL9vKZUGZcbhU5JoOAQ4CrlSTPWjzqq4/edit
 
+## Objetivos futuros:
+Alguns dos objetivos e ações futuras planejadas para o projeto são:
+- Adição de valor de mercado
+- Comparação entre jogadores
+- Inclusão de dados de mais temporadas
+- Análise da evolução do desempenho dos jogadores
+- Inclusão de novas ligas e, consequentemente, novos jogadores
+- Implementação de análises preditivas para possíveis contratações
+
+## Conclusão
+
+O projeto foi extremamente gratificante de se realizar, principalmente pelo seu tema, o que nos motivou a trabalhar nele incansavelmente e continuar trabalhando mesmo após sua entrega. Acreditamos que criamos uma ótima ferramenta que, além de permitir que apliquemos conhecimentos e técnicas aprendidas ao longo da disciplina, nos fez criar um carinho e atenção especial para a área de Banco de Dados. Agradecemos o professor Sávio Teles pela oportunidade e pelos ensinamentos em sala de aula, que temos certeza que vai nos ajudar em nossa formação profissional.
+
+
