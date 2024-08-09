@@ -5,6 +5,8 @@ Trabalho final da disciplina "Banco de Dados" - Bacharelado em Inteligência Art
 
 Bancos de dados como ferramenta para a análise de desempenho de atletas
 
+Alunos: Matheus Franco Medeiros e Murilo Alvares Silva
+
 ## Sobre o Tema
 
 Tema: Análise de Desempenho no Mercado de Transferências do Futebol
